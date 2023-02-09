@@ -1,4 +1,4 @@
-# Switching your career toward data science
+# Shifting your career toward data science
 
 Are you ready to embark on a journey of learning and growth in the field of data science? If so, you are in the right place! In this guide, I will cover some key principles and strategies for effective learning in the field of data science.
 
